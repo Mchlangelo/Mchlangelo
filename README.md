@@ -1,4 +1,4 @@
-### Olá! Eu sou o Miguel Ángel, estudante de Ciência da Computação na UNIP - Universidade Paulista, em Brasília - DF.
+### Olá! Eu sou Miguel Ángel, estudante de Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/Mchlangelo">
