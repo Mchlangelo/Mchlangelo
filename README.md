@@ -1,4 +1,4 @@
-### Olá! Aqui o Miguel Ángel, estudante de Ciência da Computação. Atualmente cursando o 7° período.
+### Olá! Aqui o Miguel Ángel, estudante de Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/Mchlangelo">
