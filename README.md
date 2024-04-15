@@ -1,4 +1,4 @@
-### Olá! Aqui o Miguel Ángel, estudante de Ciência da Computação.
+### Olá! Aqui o Miguel Ángel, estudante formado em Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/Mchlangelo">
