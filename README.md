@@ -1,4 +1,4 @@
-### Olá! Aqui o Miguel Ángel.
+### Olá! Aqui é o Miguel Ángel.
 
 <div align="center">
   <a href="https://github.com/Mchlangelo">
